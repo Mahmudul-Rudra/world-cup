@@ -258,7 +258,7 @@ a {
 	}
 }
 
-@media only screen and (min-width: 700px) {
+@media only screen and (min-width: 700px) and (max-width: 1000px) {
 	.middle {
 		display: flex;
 		flex-direction: column;
