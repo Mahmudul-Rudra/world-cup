@@ -319,6 +319,10 @@ hr {
 		margin-bottom: 50px;
 	}
 
+	.descriptions p {
+		font-size: 30px;
+	}
+
 	.image img {
 		margin: 0 auto;
 	}

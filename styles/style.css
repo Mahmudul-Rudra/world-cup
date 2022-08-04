@@ -327,6 +327,10 @@ hr {
 		margin-bottom: 50px;
 	}
 
+	.descriptions p {
+		font-size: 30px;
+	}
+
 	.image img {
 		margin: 0 auto;
 	}
@@ -437,23 +441,6 @@ hr {
 		margin: 0 auto;
 	}
 	/* Middle section */
-	/* .left {
-		max-height: 190px;
-	}
-	.options {
-		padding: 1px;
-	}
-	.option {
-		color: black;
-		background-color: white;
-		margin: 14px;
-		border-radius: 4px;
-		padding: 5px;
-		width: 160px;
-		text-align: center;
-		font-size: 20px;
-	} */
-
 	.right {
 		margin-top: 50px;
 	}
